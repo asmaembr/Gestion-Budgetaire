@@ -20,13 +20,13 @@
 
     <color name="background2">#FFFFFFFF</color>
     <color name="background3">#808080</color>
-    <color name="background4">#ef0148</color>
-    <color name="background5">#ef0148</color>
+    <color name="background4">#6C4E57</color>
+    <color name="background5">#421321</color>
     <color name="background6">#FFFFFFFF</color>
 
-    <color name="light_pink">#fc327e</color>
+    <color name="light_pink">#AC7187</color>
     <color name="light_green">#058073</color>
-    <color name="light_yellow">#ffac30</color>
-    <color name="light_red">#66023C</color>
-    <color name="dark_green">#CDC733</color>
+    <color name="light_yellow">#A87D3D</color>
+    <color name="light_red">#553347</color>
+    <color name="dark_green">#818057</color>
 </resources>

@@ -17,7 +17,7 @@ import lecho.lib.hellocharts.view.PieChartView;
 
 public class PieChart extends AppCompatActivity {
 
-    private List<String> xData = new ArrayList<>();
+    private final List<String>  xData = new ArrayList<>();
 
     ArrayList pieEntries;
 
@@ -43,7 +43,7 @@ public class PieChart extends AppCompatActivity {
 
         PieChartData pieChartData = new PieChartData(pieData);
         pieChartData.setHasLabels(true).setValueLabelTextSize(14);
-        pieChartData.setHasCenterCircle(true).setCenterText1("Expenses").setCenterText1FontSize(20).setCenterText1Color(Color.parseColor("#0097A7"));
+        pieChartData.setHasCenterCircle(true).setCenterText1("Dépense").setCenterText1FontSize(20).setCenterText1Color(Color.BLACK);
         pieChartView.setPieChartData(pieChartData);
 
     }
@@ -73,7 +73,7 @@ public class PieChart extends AppCompatActivity {
 
         pieData = new ArrayList<>();
 
-        ArrayList<Integer> colors = new ArrayList<Integer>();
+        ArrayList<Integer> colors = new ArrayList<>();
         colors.add(Color.MAGENTA);
         colors.add(Color.BLUE);
         colors.add(Color.YELLOW);

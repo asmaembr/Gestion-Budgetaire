@@ -24,12 +24,9 @@
     <color name="background5">#ef0148</color>
     <color name="background6">#FFFFFFFF</color>
 
-    <color name="textGreen">#ef0148</color>
     <color name="light_pink">#fc327e</color>
-    <color name="light_green">#1ac831</color>
+    <color name="light_green">#058073</color>
     <color name="light_yellow">#ffac30</color>
-    <color name="light_purple">#cd06ff</color>
-    <color name="light_orange">#f66224</color>
-    <color name="light_red">#ef0148</color>
+    <color name="light_red">#66023C</color>
     <color name="dark_green">#CDC733</color>
 </resources>

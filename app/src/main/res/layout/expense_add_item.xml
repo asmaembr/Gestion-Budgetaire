@@ -110,7 +110,7 @@
             android:background="@drawable/bg_rounded_input_field"
             android:text="Cancel"
             android:textAllCaps="false"
-            android:textColor="@color/textColor"
+            android:textColor="@color/white"
             android:textSize="16sp" />
 
         <Button
@@ -124,7 +124,7 @@
             android:background="@drawable/bg_rounded_input_field"
             android:text="Save"
             android:textAllCaps="false"
-            android:textColor="@color/textColor"
+            android:textColor="@color/white"
             android:textSize="16sp" />
     </LinearLayout>
 
